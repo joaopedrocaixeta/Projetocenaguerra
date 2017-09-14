@@ -447,6 +447,7 @@ ModelImporter:
     100878: Plane.036
     100880: Plane.038
     100882: Plane.041
+    100884: Icosphere.019
     400000: //RootNode
     400002: Circle
     400004: Circle.002
@@ -889,6 +890,7 @@ ModelImporter:
     400878: Plane.036
     400880: Plane.038
     400882: Plane.041
+    400884: Icosphere.019
     2300000: Circle
     2300002: Cylinder.001
     2300004: Cylinder.002
@@ -1330,6 +1332,7 @@ ModelImporter:
     2300876: Plane.036
     2300878: Plane.038
     2300880: Plane.041
+    2300882: Icosphere.019
     3300000: Circle
     3300002: Cylinder.001
     3300004: Cylinder.002
@@ -1771,6 +1774,7 @@ ModelImporter:
     3300876: Plane.036
     3300878: Plane.038
     3300880: Plane.041
+    3300882: Icosphere.019
     4300000: Plane.040
     4300002: Cylinder.030
     4300004: Cylinder.031
@@ -1967,10 +1971,12 @@ ModelImporter:
     4300386: Landscape.001|Icosphere.002|Dupli|2.0.0.0.0.0.0.0.0.0
     4300388: Landscape.001|Icosphere.001|Dupli|3.0.0.0.0.0.0.0.0.0
     4300390: Landscape.001|Icosphere|Dupli|4.0.0.0.0.0.0.0.0.0
+    4300392: Icosphere.019
     7400000: Circle.002|Action
     7400002: Circle.002|oceano.002
     9500000: //RootNode
     13700000: Circle.002
+    13700002: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
